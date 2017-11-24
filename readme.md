@@ -1,0 +1,1 @@
+This is the Readme for LJ Nissen's ruby gosu game
